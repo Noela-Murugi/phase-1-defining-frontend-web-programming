@@ -1,5 +1,6 @@
 # Defining Front-End Web Programming
 
+
 ## Learning Goals
 
 - Define web programming
@@ -54,7 +55,7 @@ Step 3: You _click_ some visual element meant to show approval (heart,
    ![heart](https://curriculum-content.s3.amazonaws.com/phase-1/defining-fewp/Image_30_SocMediaCropped.png)
 
 Step 4: The visual element _updates_ (animates, goes from empty to full, jiggles,
-   etc) like:  
+   etc) like:
 
    ![full heart](https://curriculum-content.s3.amazonaws.com/phase-1/defining-fewp/Image_30_SocMediaCropped1.png)
 
